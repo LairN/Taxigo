@@ -1,4 +1,0 @@
-Taxigo
-======
-
-Projet Taxigo
